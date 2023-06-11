@@ -1,8 +1,9 @@
-nltk
-numpy
-tflearn
-tensorflow
-pickle
-json
-keras
-Flask
+nltk==3.8.1
+numpy==1.24.3
+tflearn==0.5.0
+tensorflow==2.12.0
+random2==1.0.1
+pickle5==0.0.12
+jsonlib==1.6.1
+keras==2.12.0
+Flask==2.3.2
