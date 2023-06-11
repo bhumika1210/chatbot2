@@ -2,7 +2,6 @@ nltk
 numpy
 tflearn
 tensorflow
-random
 pickle
 json
 keras
